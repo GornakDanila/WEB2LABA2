@@ -1,0 +1,54 @@
+{
+
+    "data": [
+        {
+    "id": 1,
+    "name": "Keks",
+    "animal": "cat",
+    "color": "red",
+    "gender": "male",
+    "img": "https://img1.goodfon.ru/wallpaper/nbig/1/c8/kot-ryzhiy-pushistyy-morda.jpg"
+},
+{
+    "id": 2,
+    "name": "Masya",
+    "animal": "cat",
+    "color": "black",
+    "gender": "female",
+    "img": "http://pm1.narvii.com/7598/79500c4d5ea1f018d2de6b10f34673b185ec3b5br1-1080-1350v2_uhq.jpg"
+},
+{
+    "id": 3,
+    "name": "Umka",
+    "animal": "dog",
+    "color": "brown",
+    "gender": "male",    
+    "img": "https://avatars.mds.yandex.net/get-zen_doc/3769427/pub_60357076a332dd737377a1a2_603571cdbd729c71d14308f1/scale_1200"
+
+},
+{
+    "id": 4,
+    "name": "Linda",
+    "animal": "dog",
+    "color": "white",
+    "gender": "female",
+    "img": "https://img01.kupiprodai.ru/022019/1564664162546.jpg"
+},
+{
+    "id": 5,
+    "name": "Jem",
+    "animal": "cat",
+    "color": "black",
+    "gender": "male",
+    "img": "https://a.radikal.ru/a21/1911/8f/43f99f8919f3.jpg"
+},
+{
+    "id": 6,
+    "name": "Baron",
+    "animal": "dog",
+    "color": "red",
+    "gender": "male",
+    "img": "http://www.mobilmusic.ru/mfile/71/3a/af/1459839.jpg"
+}
+    ]
+}
